@@ -80,7 +80,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "Wear the future, live the moment.",
+        "text": "Smart Gadgets. Simple Living.",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -97,7 +97,7 @@
         "heading_aEw9Mn": {
           "type": "heading",
           "settings": {
-            "text": "At Wearable",
+            "text": "At Gadgets Headquarters",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -106,7 +106,7 @@
         "richtext_NPgcHm": {
           "type": "richtext",
           "settings": {
-            "content": "<p><br/>we bring you the latest wearable technology designed to fit your lifestyle. From smartwatches and fitness trackers to wireless accessories, our goal is to combine style, comfort, and innovation in every product. We’re committed to offering high-quality wearables, great prices, and excellent customer service to help you stay connected, active, and ahead of the trend.<br/><br/></p>"
+            "content": "<p><br/>we believe the best products are the ones that simplify your daily life. We carefully select innovative, practical, and affordable gadgets that help you save time, stay organized, and make everyday tasks easier. Our mission is to bring you smart solutions you can rely on—because life should be simpler.<br/><br/></p>"
           }
         }
       },
@@ -129,7 +129,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "Delivery All Over Lebanon",
+        "text": "Making Everyday Life Easier, One Gadget at a Time.",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
