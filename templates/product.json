@@ -47,7 +47,7 @@
         "liquid_8BBykj": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🕶️ Adjustable Tint Technology</span> – Easily adapt your lenses to different lighting conditions for maximum comfort and visibility.<br><br>\n\n<span style=\"font-weight: bold;\">☀️ UV400 Sun Protection</span> – Protect your eyes from harmful UV rays and reduce glare while outdoors.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Stylish & Durable Design</span> – Premium aluminum alloy frame with a modern luxury look made for everyday wear.\n</div>"
+            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">📸 Professional Camera Grip</span> – Hold your phone more comfortably and capture sharper photos with better stability and control.<br><br>\n\n<span style=\"font-weight: bold;\">🧲 Strong Magnetic Attachment</span> – Quickly snaps onto compatible phones or magnetic rings for a secure and easy setup.<br><br>\n\n<span style=\"font-weight: bold;\">🎮 Bluetooth Shutter Button</span> – Take selfies, videos, and group photos easily with one-click wireless control.\n</div>"
           }
         },
         "rating": {
@@ -136,7 +136,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "See the world in style",
+        "text": "Professional Camera Grip",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -153,10 +153,11 @@
         "item_pUAUTj": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/WhatsAppImage2026-06-15at5.03.37PM.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Adjustable Tint Technology",
-            "content": "<p>Experience clear vision in every environment with lenses that adapt to changing light conditions for maximum comfort.</p><h3></h3>"
+            "title": "Wireless Remote Shutter",
+            "content": "<p>Take photos or start recording with the built-in Bluetooth shutter button—perfect for selfies, vlogging, and group photos.</p><h3></h3>"
           }
         }
       },
@@ -182,7 +183,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "Smart shades for every moment.",
+        "text": "Strong Magnetic Attachment",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -199,10 +200,11 @@
         "item_7ffkaP": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/WhatsAppImage2026-06-15at5.03.36PM_1.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Premium Style & Protection",
-            "content": "<p>Designed with a durable aluminum frame and UV400 protection to keep you stylish while protecting your eyes outdoors.</p>"
+            "title": "Capture Every Shot with Confidence",
+            "content": "<p><br/>Whether you're taking photos, recording videos, or creating content, the XPro Magnetic Photography Handle provides a secure grip, one-touch Bluetooth control, and enhanced stability—helping you capture professional-looking results with ease.<br/><br/></p>"
           }
         }
       },
@@ -223,151 +225,17 @@
         "heading_gradient": ""
       }
     },
-    "comparison_table_HzPBTk": {
-      "type": "comparison-table",
-      "blocks": {
-        "headings_xDapqP": {
-          "type": "headings",
-          "settings": {
-            "heading_1": "Heading 1",
-            "heading_2": "Heading 2",
-            "heading_3": "Heading 3",
-            "heading_4": "",
-            "heading_5": "",
-            "heading_6": "",
-            "heading_7": "",
-            "heading_8": "",
-            "heading_9": "",
-            "heading_10": "",
-            "heading_11": "",
-            "heading_12": "",
-            "heading_13": "",
-            "heading_14": "",
-            "heading_15": "",
-            "heading_16": "",
-            "heading_17": "",
-            "heading_18": "",
-            "heading_19": "",
-            "heading_20": ""
-          }
-        },
-        "values_D3mVzf": {
-          "type": "values",
-          "settings": {
-            "product": "",
-            "value_1": "<p>Value 1</p>",
-            "value_2": "<p>Value 2</p>",
-            "value_3": "<p>Value 3</p>",
-            "value_4": "",
-            "value_5": "",
-            "value_6": "",
-            "value_7": "",
-            "value_8": "",
-            "value_9": "",
-            "value_10": "",
-            "value_11": "",
-            "value_12": "",
-            "value_13": "",
-            "value_14": "",
-            "value_15": "",
-            "value_16": "",
-            "value_17": "",
-            "value_18": "",
-            "value_19": "",
-            "value_20": "",
-            "view_button_background": "",
-            "view_button_text_color": ""
-          }
-        },
-        "values_97BTEp": {
-          "type": "values",
-          "settings": {
-            "product": "",
-            "value_1": "<p>Value 1</p>",
-            "value_2": "<p>Value 2</p>",
-            "value_3": "<p>Value 3</p>",
-            "value_4": "",
-            "value_5": "",
-            "value_6": "",
-            "value_7": "",
-            "value_8": "",
-            "value_9": "",
-            "value_10": "",
-            "value_11": "",
-            "value_12": "",
-            "value_13": "",
-            "value_14": "",
-            "value_15": "",
-            "value_16": "",
-            "value_17": "",
-            "value_18": "",
-            "value_19": "",
-            "value_20": "",
-            "view_button_background": "",
-            "view_button_text_color": ""
-          }
-        },
-        "values_QGiUe4": {
-          "type": "values",
-          "settings": {
-            "product": "",
-            "value_1": "<p>Value 1</p>",
-            "value_2": "<p>Value 2</p>",
-            "value_3": "<p>Value 3</p>",
-            "value_4": "",
-            "value_5": "",
-            "value_6": "",
-            "value_7": "",
-            "value_8": "",
-            "value_9": "",
-            "value_10": "",
-            "value_11": "",
-            "value_12": "",
-            "value_13": "",
-            "value_14": "",
-            "value_15": "",
-            "value_16": "",
-            "value_17": "",
-            "value_18": "",
-            "value_19": "",
-            "value_20": "",
-            "view_button_background": "",
-            "view_button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "headings_xDapqP",
-        "values_D3mVzf",
-        "values_97BTEp",
-        "values_QGiUe4"
-      ],
-      "name": "Comparison table",
+    "custom_liquid_ngR4zY": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
-        "subheading": "Compare",
-        "title": "Product comparison",
-        "content": "<p>Give your customers useful information about your products and showcase differences between them.</p>",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "max_rows": 5,
-        "view_all_text": "View all",
-        "view_less_text": "View less",
-        "view_product": "View",
-        "show_product_info": true,
-        "show_product_swatch": true,
-        "viewing_product": "",
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n.benefits-table {\n  width: 100%;\n  border-collapse: collapse;\n  margin: 20px 0;\n  border-radius: 12px;\n  overflow: hidden;\n  font-size: 15px;\n  font-family: Arial, sans-serif;\n}\n\n.benefits-table th {\n  background: #000;\n  color: #fff;\n  padding: 14px;\n  text-align: center;\n  font-weight: 700;\n}\n\n.benefits-table td {\n  padding: 12px;\n  border-bottom: 1px solid #eee;\n  text-align: center;\n}\n\n.benefits-table tr:nth-child(even) {\n  background: #f9f9f9;\n}\n\n.benefits-table td:first-child {\n  text-align: left;\n  font-weight: 600;\n}\n\n.yes {\n  color: #28a745;\n  font-weight: bold;\n}\n\n.no {\n  color: #dc3545;\n  font-weight: bold;\n}\n\n@media (max-width: 768px) {\n  .benefits-table {\n    font-size: 14px;\n  }\n\n  .benefits-table th,\n  .benefits-table td {\n    padding: 10px;\n  }\n}\n</style>\n\n<table class=\"benefits-table\">\n  <thead>\n    <tr>\n      <th>Features</th>\n      <th>Our XPro Grip</th>\n      <th>Others</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Strong Magnetic Mount</td>\n      <td class=\"yes\">✔ Yes</td>\n      <td class=\"no\">✖ No</td>\n    </tr>\n    <tr>\n      <td>Bluetooth Camera Shutter</td>\n      <td class=\"yes\">✔ Yes</td>\n      <td class=\"no\">✖ No</td>\n    </tr>\n    <tr>\n      <td>Comfortable Ergonomic Grip</td>\n      <td class=\"yes\">✔ Yes</td>\n      <td class=\"no\">✖ No</td>\n    </tr>\n    <tr>\n      <td>One-Hand Shooting</td>\n      <td class=\"yes\">✔ Yes</td>\n      <td class=\"no\">✖ No</td>\n    </tr>\n    <tr>\n      <td>Lightweight & Portable</td>\n      <td class=\"yes\">✔ Yes</td>\n      <td class=\"no\">✖ No</td>\n    </tr>\n    <tr>\n      <td>Ideal for Photos & Videos</td>\n      <td class=\"yes\">✔ Yes</td>\n      <td class=\"no\">✖ No</td>\n    </tr>\n  </tbody>\n</table>",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "chart_background": "",
-        "chart_text_color": "",
-        "chart_true_false_color": ""
+        "text_color": ""
       }
     },
     "slideshow_Pk7FBg": {
@@ -392,29 +260,29 @@
         "item_Wg8g8E": {
           "type": "item",
           "settings": {
-            "title": "How does the adjustable tint work?",
-            "content": "<p><br/>The lenses adapt to different lighting conditions, helping reduce glare and improve visibility outdoors.<br/></p>"
+            "title": "Which phones are compatible?",
+            "content": "<p>It works with most smartphones that support magnetic mounting or are used with the included magnetic ring.</p><p></p>"
           }
         },
         "item_8yizQD": {
           "type": "item",
           "settings": {
-            "title": "Are the sunglasses suitable for both men and women?",
-            "content": "<p><br/>Yes, the modern round design is made to suit both men and women.<br/><br/></p>"
+            "title": "Does it require charging?",
+            "content": "<p>The Bluetooth shutter button is powered by a built-in rechargeable battery.</p><p></p>"
           }
         },
         "item_Apj6NA": {
           "type": "item",
           "settings": {
-            "title": "Do these sunglasses provide UV protection?",
-            "content": "<p><br/>Yes, the sunglasses offer UV400 protection against harmful sun rays.<br/><br/></p>"
+            "title": "Can I use it for videos?",
+            "content": "<p>Yes. It's perfect for recording videos, vlogging, livestreaming, and taking photos.</p><p></p>"
           }
         },
         "item_tK9h6f": {
           "type": "item",
           "settings": {
-            "title": "What material is the frame made from?",
-            "content": "<p>The frame is made from durable aluminum alloy for long-lasting comfort and strength.</p>"
+            "title": "Is the magnetic grip strong?",
+            "content": "<p>Yes. It features a strong magnetic attachment designed to hold your phone securely during normal use.</p><p></p>"
           }
         }
       },
@@ -490,7 +358,7 @@
     "images_with_text_scrolling_Ane7LP",
     "scrolling_text_qBXBG4",
     "images_with_text_scrolling_HnL6DC",
-    "comparison_table_HzPBTk",
+    "custom_liquid_ngR4zY",
     "slideshow_Pk7FBg",
     "faq_hnHpnX",
     "17789057653ac76002",
